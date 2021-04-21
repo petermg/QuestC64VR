@@ -1,0 +1,14 @@
+This app comes with NO ROMS. You must supply them yourself.
+Instructions are as follows:
+1. Create a folder named “c64” on the root of the drive you are running this from.
+2. Put .d64 image files in it, disks for them will auto spawn on launch.
+3. Click on the joystick to swap joystick ports.
+4. Click any floppy disk to pick it up for loading it into the drive.
+5. Then click on the floppy drive to load or eject a floppy. 
+6. By aiming at the key and pulling the trigger button, press F1 then ENTER to fast load the floppy in the drive.
+7. To simulate holding down a key, hold down the X button instead of trigger, for example to use special characters by holding shift then another key with the right trigger.
+8. Pick up some objects by touching them with either controller and pressing the grab button.
+9. Click on the power button to reset the emulator.
+10. Button A is the joystick button for games.
+11. Left thumb stick is the joystick for games.
+12. Right thumb stick is locomotion.
